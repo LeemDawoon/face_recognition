@@ -32,7 +32,7 @@ train_df = pd.read_csv('./labels/train.pre.small.csv')
 valid_df = pd.read_csv('./labels/valid.pre.small.csv')
 
 # 데이터 root 경로
-PATH = '../../data/img_celeba_preprocess'
+PATH = './data/img_celeba_preprocess'
 
 ############################################################
 # triplet loss 
