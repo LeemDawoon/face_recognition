@@ -1,6 +1,6 @@
 # Face Recognition 
 
-![result](labels/figure.JPG)
+![result](labels/server.JPG)
 
 ## Dataset
 - **[CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)**
